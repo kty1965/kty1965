@@ -116,7 +116,11 @@ I like travel🍾.
   </a>
 </p>
 
-### Medium Blogs posts
+### Slideshare posts
+
+- [On-premise를 이용하는 iot 서비스 aws 리-아키텍쳐 하기](https://www.slideshare.net/TaeYoungKim36/onpremise-iot-aws-139015675)
+
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [react-native 프로젝트에서 expo를 이용한 GoogleSignIn 이용기](https://medium.com/react-native-seoul/react-native-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-expo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-googlesignin-%EC%9D%B4%EC%9A%A9%EA%B8%B0-acd0404d1977?source=rss-462d966a6a2a------2)
 <!-- BLOG-POST-LIST:END -->
