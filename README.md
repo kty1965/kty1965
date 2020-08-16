@@ -65,6 +65,7 @@ I like travel🍾.
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kty1965/kty1965/master/AWS-Architecture-Icons_SVG_20200430/Compute/Amazon-Elastic-Kubernetes-Service_dark-bg.svg" alt="redis" width="40" height="40"/>
 </p>
 
 ### Frontend
