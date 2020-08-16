@@ -38,7 +38,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -61,12 +60,28 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </p>
 
+### DevOps
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/istio/istio.io/master/src/icons/istio-blue-logo.svg" alt="istio" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/istio/istio.io/master/src/icons/helm.svg" alt="istio" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/jessestuart/js-devicon/master/icons/terraform/terraform-plain-wordmark.svg" alt="istio" width="40" height="40">
+</p>
+
 ### Tool
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain-wordmark.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-plain.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ssh/ssh-original-wordmark.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-plain-wordmark.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/istio/istio.io/master/src/icons/slack.svg" alt="istio" width="40" height="40">
 </p>
 
 ### Social Networks
