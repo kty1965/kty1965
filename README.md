@@ -9,11 +9,15 @@
 
 - 📫 How to reach me **kty1965@gmail.com**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kty1965&hide=html&theme=dracula" alt="kty1965" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kty1965&show_icons=true&count_private=true&theme=dracula" alt="kty1965" />
-</p>
+## Github stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kty1965&hide=html&theme=dracula" alt="kty1965" />
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kty1965&show_icons=true&count_private=true&theme=dracula" 
+alt="kty1965" />
+<br/>
+
+## Skills
 
 <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -46,6 +50,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </p>
+
+### Social Networks
 
 <p>
   <a href="https://linkedin.com/in/huy1965" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huy1965" height="30" width="30" />
