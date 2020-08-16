@@ -1,13 +1,34 @@
 <h1>👋, My name is Huy</h1>
-<h3>Backend/DevOps/FullStack Developer in South Korea</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kty1965" alt="kty1965" />
+  <img src="https://komarev.com/ghpvc/?username=kty1965&style=flat-square&color=brightgreen" alt="kty1965" />
 </p>
 
-- 🌱 I’m currently learning **Istio**, Terraform, EKS
+## Introduction
 
+Backend🔙🔚/DevOps 💯/FullStack Developer in South Korea 🇰🇷</br>
+I like travel🍾.
+
+-  📅 Nowdays interested in `DevOps`
+- ✏️ I’m currently learning **Istio**, Terraform, EKS
 - 📫 How to reach me **kty1965@gmail.com**
+- 📁 Worked
+  - **[ZOYI Software Engineer](https://zoyi.co) (2012 ~ 2018)** </br>
+    - AdbyMe
+      - Social Media Marketing platform
+    - Cooki
+      - Social Curation platform
+    - AdbyMePlay
+      - Social Media Marketing by viedo platform
+    - CarryU
+      - League Of Legends user score search
+  - **[ZOYI CTO of Walkinsights](https://zoyi.co) (2018 ~ 2020,June)**
+    - [Walkinisghts](https://walkinsights.com)
+      - Offline analytics by WIFI-Signal
+- 📂 Currently working at [@modusign](https://www.modusign.co.kr/)
+- 📖 Education: **BSc, Computer Science**; University of Ajou (Suwon)
+  - Major: Software Engineering
+- 🖥 **#BigData_handling**, **#Distributed_system**, #Startup
 
 ## Github stats
 
