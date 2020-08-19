@@ -2,6 +2,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kty1965&style=flat-square&color=brightgreen" alt="kty1965" />
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" alt="Conventional Commits" />
+
 </p>
 
 ## Introduction
