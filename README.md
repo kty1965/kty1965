@@ -125,5 +125,6 @@ I like travel🍾.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform + AWS 셋팅하기 Part 1](https://medium.com/modusign/terraform-aws-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-part-1-a3dae9f5fbbd?source=rss-462d966a6a2a------2)
 - [react-native 프로젝트에서 expo를 이용한 GoogleSignIn 이용기](https://medium.com/react-native-seoul/react-native-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-expo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-googlesignin-%EC%9D%B4%EC%9A%A9%EA%B8%B0-acd0404d1977?source=rss-462d966a6a2a------2)
 <!-- BLOG-POST-LIST:END -->
