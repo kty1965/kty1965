@@ -27,7 +27,7 @@ I like travel🍾.
   - **[ZOYI CTO of Walkinsights](https://zoyi.co) (2018 ~ 2020,June)**
     - [Walkinisghts](https://walkinsights.com)
       - Offline analytics by WIFI-Signal
-- 📂 Currently working at [@modusign](https://www.modusign.co.kr/)
+- 📂 Currently working at [@modusign](https://www.modusign.co.kr/) CTO
 - 📖 Education: **BSc, Computer Science**; University of Ajou (Suwon)
   - Major: Software Engineering
 - 🖥 **#BigData_handling**, **#Distributed_system**, #Startup
